@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/scss/src/scss/main.scss"],"names":[],"mappings":"AAAA;EACI,YAAY,EACf;;AAED;EACI,qBAAqB,EACxB","file":"css/main.css","sourcesContent":["body {\n    color: #fff;\n}\n\nh1 {\n    color: rebeccapurple;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/scss/src/scss/main.scss"],"sourceRoot":""}
