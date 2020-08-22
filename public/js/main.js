@@ -52,9 +52,7 @@
 /* 1 */
 /***/ (function(module, exports) {
 
-	'use strict';
-	
-	console.log('hello');
+	"use strict";
 
 /***/ }),
 /* 2 */
